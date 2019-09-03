@@ -1,0 +1,29 @@
+﻿头条 java  tcp相关的，半连接攻击，select具体哪里不如epoll，mysql通讯协议，mysql架构，synchronized实现细节,字节码相关技术，对于java的发展趋势有没有关注,java的编码 linux命令,mysql 回滚 数据是怎么做 ,G1垃圾回收,项目 锁 容器 算法 Redis ,MySQL 索引 事务 
+
+1.使用jdk1.8，1.8具体有哪些改进
+
+2.项目使用g1，g1的流程
+
+3.线程安全容器 (ConcurrentHashMap）
+
+4.不能说明为什么选择BlockingQueue作为消息队列
+
+5.数组链表区别
+
+6.乐观锁悲观锁概念，乐观锁怎么实现
+
+7.cas操作
+
+8.了解lock和synchronized区别，知道jvm锁升级的过程
+
+9.知道弱引用和软引用和垃圾回收有关
+
+10.redis怎么查看运行状态
+
+11.epoll poll select 区别
+
+12.项目使用了状态机做ai，行为树
+
+13.aoi管理实现细节有些问题
+
+14.数组查重给出最优解，对于时间空间复杂度理解
